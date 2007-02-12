@@ -1,5 +1,5 @@
 Summary:	Devil's Pie - window matching tool
-Summary(pl):	Devil's Pie - narzêdzie do dopasowywania okien
+Summary(pl.UTF-8):   Devil's Pie - narzÄ™dzie do dopasowywania okien
 Name:		devilspie
 Version:	0.17.1
 Release:	0.1
@@ -21,12 +21,12 @@ window matching is not a bad thing - Metacity is a lean window
 manager, and window matching does not have to be a window manager
 task.
 
-%description -l pl
-Narzêdzie do dopasowywania okien zainspirowane opcj± "Matched Windows"
-(dopasowane okna) z Sawfisha i brakiem tej funkcjonalno¶ci w Metacity.
-Brak tej opcji w Metacity nie jest z³± rzecz±, jako ¿e Metacity to
-do¶æ ubogi zarz±dca okien, a dopasowywanie okien nie musi byæ zadaniem
-zarz±dcy okien.
+%description -l pl.UTF-8
+NarzÄ™dzie do dopasowywania okien zainspirowane opcjÄ… "Matched Windows"
+(dopasowane okna) z Sawfisha i brakiem tej funkcjonalnoÅ›ci w Metacity.
+Brak tej opcji w Metacity nie jest zÅ‚Ä… rzeczÄ…, jako Å¼e Metacity to
+doÅ›Ä‡ ubogi zarzÄ…dca okien, a dopasowywanie okien nie musi byÄ‡ zadaniem
+zarzÄ…dcy okien.
 
 %prep
 %setup -q
