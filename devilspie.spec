@@ -1,5 +1,5 @@
 Summary:	Devil's Pie - window matching tool
-Summary(pl.UTF-8):   Devil's Pie - narzędzie do dopasowywania okien
+Summary(pl.UTF-8):	Devil's Pie - narzędzie do dopasowywania okien
 Name:		devilspie
 Version:	0.17.1
 Release:	0.1
