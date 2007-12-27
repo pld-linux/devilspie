@@ -1,12 +1,12 @@
 Summary:	Devil's Pie - window matching tool
 Summary(pl.UTF-8):	Devil's Pie - narzędzie do dopasowywania okien
 Name:		devilspie
-Version:	0.17.1
+Version:	0.22
 Release:	0.1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.burtonini.com/computing/%{name}-%{version}.tar.gz
-# Source0-md5:	2479a3fe9be3d7666c7f44605fa331c9
+# Source0-md5:	4190e12f99ab92c0427e457d9fbfe231
 URL:		http://www.burtonini.com/blog/computers/devilspie
 BuildRequires:	glib2-devel >= 1:2.9.1
 BuildRequires:	gtk+2-devel >= 2.0
